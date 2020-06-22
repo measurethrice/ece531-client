@@ -1,20 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>
-<title>Directory listing for /</title>
-<body>
-<h2>Directory listing for /</h2>
-<hr>
-<ul>
-<li><a href=".git/">.git/</a>
-<li><a href=".gitignore">.gitignore</a>
-<li><a href="main">main</a>
-<li><a href="main.c">main.c</a>
-<li><a href="makefile">makefile</a>
-<li><a href="README.md">README.md</a>
-<li><a href="requestor.c">requestor.c</a>
-<li><a href="requestor.o">requestor.o</a>
-<li><a href="test">test</a>
-<li><a href="test.out">test.out</a>
-</ul>
-<hr>
-</body>
-</html>
+Enter your curl request: You entered: -p 
+Token 0 is '-p'.
+No flags present
+
+--url
+<!DOCTYPE html><html><head><meta charSet="utf-8" /><meta name="viewport" content="width=device-width" initial-scale="1" /><title>My JSON Server - Fake online REST server for teams</title><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic" /><link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css" /><link rel="stylesheet" href="//cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css" /><link rel="stylesheet" href="/styles/index.css" /><link rel="stylesheet" href="//cdn.jsdelivr.net/highlight.js/9.10.0/styles/color-brewer.min.css" /><link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" /></head><body><div class="header"><div class="container narrow"><div class="row"><div class="column"><a href="/">My JSON Server</a>  <span class="badge">beta</span></div><div class="column"><a href="/pricing">Plans</a><a href="/pricing">Free for OSS</a></div></div></div></div><main><div class="container narrow"><div class="row"><div class="column sidebar"><div><a href="https://github.com/typicode"><img id="avatar" /></a></div><div style="margin-bottom:.6rem"><a href="/pricing" class="badge patreon">Sponsor</a></div><div><a class="button button-outline" href="https://twitter.com/intent/tweet?text=Check my fake API and get your own on My JSON Server - &amp;url=https://my-json-server.typicode.com/demo/typicode" target="_blank"><i class="icon ion-social-twitter"></i>Share</a></div><div><a class="button button-outline" href="https://github.com/typicode/demo"><i class="icon ion-fork-repo"></i>Fork</a></div></div><div class="column"><h3><a href="https://github.com/typicode/demo">demo</a></h3><h5>by <a href="https://github.com/typicode">typicode</a></h5><hr /><h5><i class="icon ion-code"></i>Available resources</h5><ul><li><a href="/typicode/demo/posts">posts</a> <sup>3</sup></li><li><a href="/typicode/demo/comments">comments</a> <sup>2</sup></li><li><a href="/typicode/demo/profile">profile</a> <sup>object</sup></li><li><a href="/typicode/demo/db">db</a> <sup>db</sup></li></ul><p>You can use GET, POST, PUT, PATCH and DELETE. Changes aren&#x27;t persisted between calls.</p><hr /><h5><i class="icon ion-social-octocat"></i>Source</h5><p><i><a href="https://github.com/typicode/demo/blob/master/db.json">https://github.com/typicode/demo/blob/master/db.json</a></i></p></div></div><script src="/repo.js"></script></div></main><footer><div class="container narrow"><div class="row"><div class="column"><i class="icon ion-code"></i> with <i class="icon heart ion-heart"></i> by<a href="https://github.com/typicode"> Typicode</a></div><div class="column">© 2017-2019 Typicode. All rights reserved.</div></div></div></footer><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-44497010-8', 'auto');
+ga('send', 'pageview');</script><script src="//cdn.jsdelivr.net/highlight.js/9.10.0/highlight.min.js"></script><script>hljs.initHighlightingOnLoad();</script></body></html>
