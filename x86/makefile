@@ -5,7 +5,7 @@ INCLUDES=
 LFLAGS=-L/usr/lib/x86_64-linux-gnu
 LIBS=-lcurl -lpthread
 
-SRC=requestor.c
+SRC=neryHW.c
 OBJ=$(SRC:.c=.o)
 MAIN=test
 
