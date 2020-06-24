@@ -7,9 +7,9 @@ LFLAGS=
 
 LIBS=-lcurl -uClibc -lc
 
-SRC=requestor.c
+SRC=neryHW.c
 OBJ=$(SRC:.c=.o)
-MAIN=test
+MAIN=hw
 
 RM=rm -rf
 
