@@ -7,9 +7,9 @@ LFLAGS=
 
 LIBS=-lcurl -uClibc -lc
 
-SRC=sampled.c
+SRC=timed.c
 OBJ=$(SRC:.c=.o)
-MAIN=sampled
+MAIN=timed
 
 RM=rm -rf
 
